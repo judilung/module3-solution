@@ -1,0 +1,86 @@
+/** HEADER **/
+#header-nav {
+  background-color: #A4A4A4;
+  border-radius: 0;
+  border: 0;
+}
+
+h3 {
+padding-top: 10px;
+padding-bottom: 10px;
+}
+
+.navbar-brand {
+  padding-top: 25px;
+  margin-bottom: 25px;
+
+}
+
+.navbar-brand h1 { 
+  color: #040404;
+  font-size: 1.5em;
+  font-weight: bold;
+  margin-top: 0;
+  margin-bottom: 0;
+  line-height: .75;
+
+}
+.navbar-brand a:hover, .navbar-brand a:focus {
+  text-decoration: none;
+}
+
+#nav-list {
+
+  background-color: #D8D8D8
+}
+#nav-list a {
+  font-size: 1.5em;
+  color: #040404;
+  text-align: center;
+  background-color: #D8D8D8
+  margin-top: 0;
+  border: 1px solid
+}
+
+#nav-list a:hover {
+  background: #E7E7E7;
+}
+#nav-list a span {
+  font-size: 1.8em;
+}
+
+.navbar-default .navbar-toggle {
+    border-color: #040404;
+}
+
+.navbar-toggle {
+border: 3px solid #040404
+}
+
+.navbar-default .navbar-toggle .icon-bar {
+  background-color: #040404;
+
+}
+
+button.navbar-toggle {
+  margin-top: 25px;
+  margin-bottom: 25px;
+}
+
+.navbar-collapse {
+    padding-top: 0;
+  padding-bottom: 0;
+  margin-top: 0;
+  margin-bottom: 0;
+}
+
+.navbar-default .navbar-collapse, .navbar-default .navbar-form {
+border: none;
+  border-color: #A4A4A4
+}
+
+/* END HEADER */
+
+.textblock {
+  background-color: #A4A4A4;
+}
